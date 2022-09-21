@@ -1,0 +1,6 @@
+//enviando para a url: https://localhost:44373/pessoas/save?validar=false
+{
+    "nome": "Patrick leva 4 atrás no carro",
+    "endereco": "Rua Brusque",
+    "idade": 26
+}
